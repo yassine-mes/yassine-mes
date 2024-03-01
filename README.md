@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yassine-mes
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects of AI
+- 👋 Hi, I’m @yassine-mesbahi
+- 👀 I’m interested in artificial intelligence and IoT.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on projects of AI.
 - 📫 How to reach me ...
 
 <!---
